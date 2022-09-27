@@ -3,3 +3,4 @@ psycopg2-binary==2.9.3
 django-debug-toolbar==3.7.0
 redis==4.3.4
 django-channels==0.7.0
+channels==3.0.5
